@@ -1,9 +1,14 @@
-<h1 align="center">Oi 👋, Me chamo Rafael Simas</h1>
-<div align="center"><p>Meu nome é Rafael Simas e sou aluno da [Escola DNC](https://www.escoladnc.com.br/formacao-em-tecnologia/), estou em formação em tecnologia na área de desenvolvimento web.</p> <p>Atualmente estou aprendendo sobre tecnologias front-end e back-end, como HTML, CSS, JavaScript, React e Node.js. Estou animado em me tornar um desenvolvedor web completo e contribuir para a criação de aplicações web incríveis.</p> <p>Além disso, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Seja bem-vindo(a) ao meu perfil do GitHub!</p></div>
+## Oi 👋, Me chamo Rafael Simas
+
+Meu nome é Rafael Simas e sou aluno da [Escola DNC](https://www.escoladnc.com.br/formacao-em-tecnologia/), estou em formação em tecnologia na área de desenvolvimento web. 
+
+Atualmente estou aprendendo sobre tecnologias front-end e back-end, como HTML, CSS, JavaScript, React e Node.js. Estou animado em me tornar um desenvolvedor web completo e contribuir para a criação de aplicações web incríveis.
+
+Além disso, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Seja bem-vindo(a) ao meu perfil do GitHub!
 
 - 🌱 Estou aprendendo **HTML,CSS e JavaScript**
 
-- 💼 Fundador e CEO [https://www.instagram.com/mirra.calcados/](https://www.instagram.com/mirra.calcados/)
+- 💼 Fundador e CEO [Mirra Calçados](https://www.instagram.com/mirra.calcados/)
 
 - 💬 Paixões **Flamengo, Crossfit, Café, Terra média e Hogwarts**
 
