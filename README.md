@@ -2,7 +2,7 @@
 
 <img align="right" src="./assets/readme.gif" width=300 >
 
-Meu nome é Rafael Simas e sou aluno da [Escola DNC](https://www.escoladnc.com.br/formacao-em-tecnologia/), estou em formação em tecnologia na área de desenvolvimento web. 
+Meu nome é Rafael Simas e sou aluno da [Labenu_](https://www.labenu.com.br/curso-de-programacao-web-full-stack-noturno), estou em formação em tecnologia na área de desenvolvimento web. 
 
 Atualmente estou aprendendo sobre tecnologias front-end e back-end, como HTML, CSS, JavaScript, React e Node.js. Estou animado em me tornar um desenvolvedor web completo e contribuir para a criação de aplicações web incríveis.
 
