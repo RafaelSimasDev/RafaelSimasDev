@@ -2,7 +2,9 @@
 
 <img align="right" src="./assets/readme.gif" width=300 >
 
-E sou desenvolvedor de software e presto serviço para empresas de tecnologias. 
+E sou aluno da [Labenu_](https://www.labenu.com.br/curso-de-programacao-web-full-stack-noturno), estou em formação em tecnologia na área de desenvolvimento web. 
+
+Atualmente estou aprendendo sobre tecnologias front-end e back-end, como HTML, CSS, JavaScript, React e Node.js. Estou animado em me tornar um desenvolvedor web completo e contribuir para a criação de aplicações web incríveis. 
 
 javascript, React, node, next, git e python são   alguma das minhas especializações. 
 
